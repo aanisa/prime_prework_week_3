@@ -1,4 +1,12 @@
+
+
 function isCartonFull( eggsInCarton, cartonCapacity ){
-  // write an if statement checks if the carton is at cartonCapacity
-  // this function should return true if so, false if not
-} // end checkIfCartonIsFull
+  if (eggsInCarton >= cartonCapacity) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+console.log(isCartonFull(8, 8));
+console.log(isCartonFull(14,24));

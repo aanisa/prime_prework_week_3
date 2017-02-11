@@ -5,7 +5,7 @@ var andTruthTable = [true  && true,
 
 // in the array 'andTruthtable', how many elements are true?
 // uncomment the next line and replace ___ with the appropriate value
-// var numberOfTrueElements = ___;
+var numberOfTrueElements = andTruthTable.length;
 
 
 
@@ -16,10 +16,14 @@ var orTruthTable = [true  || true,
 
 // in the array 'orTruthTable', how many elements are false?
 // uncomment the next line and replace ___ with the appropriate value
-// var numberOfFalseElements = ___;
+var numberOfFalseElements =orTruthTable.length;
 
 
 function opposite(booleanValue) {
-  // complete this function so that it always returns the opposite of whatever value is passed in
-  // for example `opposite(true) === false` and `opposite(false) === true`
+  return (!opposite);
 }
+
+ console.log(opposite(true));
+// complete this function so that it always returns the opposite of
+//whatever value is passed in
+// for example `opposite(true) === false` and `opposite(false) === true`
