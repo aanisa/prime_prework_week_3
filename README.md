@@ -6,7 +6,7 @@
 * Arrays
 
 
-This week you'll be completing the scripts in the following files:
+### This week you'll be completing the scripts in the following files:
 * arrayIndexConsiderations.js
 * arrays.js
 * booleanConditions.js
