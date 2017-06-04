@@ -1,4 +1,4 @@
-Prework Week 3 assignment
+Prime Digital Academy - Pre-Work Week 3 Assignment 
 =========================
 
 This week you'll be completing the scripts in the following files:
@@ -39,7 +39,4 @@ function tripleThis( number ){
 
 All the js files are sourced into index.html.
 
-Turn in your work via the assignment app at primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
 
-Don't edit or worry about any files other than the .js files
-=============
