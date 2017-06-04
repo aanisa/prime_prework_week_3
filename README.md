@@ -38,5 +38,3 @@ function tripleThis( number ){
 ```
 
 All the js files are sourced into index.html.
-
-
