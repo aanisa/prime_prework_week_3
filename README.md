@@ -1,8 +1,12 @@
-Prime Digital Academy - Pre-Work Week 3 Assignment 
-=========================
+# Prime Digital Academy - Pre-Work Week 3 Assignment 
+
+## Topics Covered
+* For Loops
+* While loops
+* Arrays
+
 
 This week you'll be completing the scripts in the following files:
-
 * arrayIndexConsiderations.js
 * arrays.js
 * booleanConditions.js
